@@ -18,7 +18,7 @@
     text-decoration: none;
     color: #04B4AE;
   }
-  
+
   a:hover {
     color: #04B4AE;
   }
@@ -27,7 +27,7 @@
   
   .main-nav {
     width: 100%;
-    background: black;
+    background: #424242;
     min-height: 30px;
     padding: 10px;
     position: fixed;
